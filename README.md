@@ -1,4 +1,4 @@
-# Better when statements
+# Better `when` statements
 
 ## Regular `when` statements
 
